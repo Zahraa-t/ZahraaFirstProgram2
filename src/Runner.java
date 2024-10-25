@@ -7,6 +7,7 @@ public class Runner {
         System.out.println(halloween + halloweenDate);
 
         int x = 30;
+        int y = 32;
     }
 
 }
